@@ -1,5 +1,5 @@
 # challengeOneUT
-<a href="https://l-jones-hub.github.io/challengeOneUT/#social-media-marketing" target="_blank">Deployed Page</a>
+<a href="https://l-jones-hub.github.io/Accessiblity-Challenge/" target="_blank">Deployed Page</a>
 
 ## Description
 
